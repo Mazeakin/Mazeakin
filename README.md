@@ -1,8 +1,8 @@
-### Hewwo! I'm [Maze][twitch]! Lead dev (at) [Tomato][website] 🍅
+### Hewwo! I'm [Maze][twitter]! Lead dev (at) [Tomato][website] 🍅
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mazeakin?style=for-the-badge)
-![Twitch Status](https://img.shields.io/twitch/status/mazeakin?style=for-the-badge)
-![Website](https://img.shields.io/website?label=Tomato&style=for-the-badge&url=https%3A%2F%2Fwetomato.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mazeakin?style=for-the-badge)][twitter]
+[![Twitch Status](https://img.shields.io/twitch/status/mazeakin?style=for-the-badge)][twitch]
+[![Website](https://img.shields.io/website?label=Tomato&style=for-the-badge&url=https%3A%2F%2Fwetomato.dev)][website]
 
 ## Caring wife, loves tomatoes, codes & analyses ALL-THE-TIME! ‍👸🏼
 
