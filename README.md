@@ -48,7 +48,12 @@
 
 ![Mazes's github stats](https://github-readme-stats.vercel.app/api?username=mazeakin&show_icons=true&theme=dracula&_=1)
 
+<!---
 [![READMAZE.md](https://github-readme-stats.vercel.app/api/pin/?username=mazeakin&repo=mazeakin&theme=dracula&_=1)](https://github.com/mazeakin/mazeakin)
+--->
+
+[![coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=&slug=mazeakin&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/mazeakin)
+
 
 [website]: https://wetomato.dev
 [twitter]: https://twitter.com/mazeakin
